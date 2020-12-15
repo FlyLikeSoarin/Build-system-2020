@@ -4,3 +4,4 @@ Makefile
 bin
 A/index.h
 *.dylib
+build
