@@ -1,0 +1,7 @@
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/CMakeFiles/PrepareA.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/CMakeFiles/rebuild_cache.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/CMakeFiles/edit_cache.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/CMakeFiles/Buildsystem.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/CMakeFiles/rebuild_cache.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/CMakeFiles/edit_cache.dir
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/CMakeFiles/BuildsystemLibrary.dir

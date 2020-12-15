@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/C/main.cpp
+main.h
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/C/main.h
+vector
+-
+iostream
+-
+
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/C/main.h
+A/index.h
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/C/A/index.h
+B/lib.h
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/C/B/lib.h
+
+A/index.h
+cmath
+-
+vector
+-
+
+B/lib.h
+cmath
+-
+vector
+-
+

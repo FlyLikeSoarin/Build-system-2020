@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Buildsystem.dir/C/main.cpp.o -o bin/Buildsystem  -Wl,-rpath,/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B B/libBuildsystemLibrary.dylib 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/abs.cpp
+lib.h
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/lib.h
+
+/Users/flylikesoarin/Projects/MIPT-Courses/build-systems/B/lib.h
+cmath
+-
+vector
+-
+
