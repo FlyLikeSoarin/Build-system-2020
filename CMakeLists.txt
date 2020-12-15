@@ -4,7 +4,7 @@ project(Buildsystem)
 
 # Env vars
 set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # Adding entry point
 add_executable(Buildsystem C/main.cpp)
